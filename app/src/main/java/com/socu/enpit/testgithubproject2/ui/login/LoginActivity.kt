@@ -1,5 +1,6 @@
 package com.socu.enpit.testgithubproject2.ui.login
 //Tasaka
+//tasakatakumi
 //Akihisa
 import android.app.Activity
 import androidx.lifecycle.Observer
