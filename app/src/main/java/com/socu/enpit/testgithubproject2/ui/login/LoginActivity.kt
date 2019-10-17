@@ -1,6 +1,6 @@
 package com.socu.enpit.testgithubproject2.ui.login
 //Tasaka
-
+//tasakatakumi
 import android.app.Activity
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
