@@ -19,6 +19,7 @@ import android.widget.Toast
 
 import com.socu.enpit.testgithubproject2.R
 
+// Mashida
 class LoginActivity : AppCompatActivity() {
 
     private lateinit var loginViewModel: LoginViewModel
