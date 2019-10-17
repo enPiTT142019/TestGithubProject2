@@ -20,7 +20,7 @@ import com.socu.enpit.testgithubproject2.R
 class LoginActivity : AppCompatActivity() {
 
     private lateinit var loginViewModel: LoginViewModel
-    //Akihisa
+    //Akihisaa
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
